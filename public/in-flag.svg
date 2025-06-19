@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" fill="#f93"/>
+  <rect width="640" height="160" y="160" fill="#fff"/>
+  <rect width="640" height="160" y="320" fill="#008751"/>
+  <circle cx="320" cy="240" r="80" fill="#008751"/>
+  <circle cx="320" cy="240" r="70" fill="#fff"/>
+  <circle cx="320" cy="240" r="60" fill="#008751"/>
+  <g fill="#008751">
+    <g id="c">
+      <g id="b">
+        <g id="a">
+          <g id="s">
+            <path d="M-6.25,0a6.25,6.25,0,0,0,6.25,6.25A6.25,6.25,0,0,0,6.25,0,6.25,6.25,0,0,0,0-6.25,6.25,6.25,0,0,0-6.25,0Z"/>
+          </g>
+          <use transform="rotate(15)" href="#s"/>
+        </g>
+        <use transform="rotate(30)" href="#a"/>
+      </g>
+      <use transform="rotate(60)" href="#b"/>
+    </g>
+    <use transform="rotate(120)" href="#c"/>
+    <use transform="rotate(240)" href="#c"/>
+  </g>
+</svg> 

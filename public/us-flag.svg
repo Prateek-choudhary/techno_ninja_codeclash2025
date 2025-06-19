@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" fill="#bf0a30"/>
+  <rect width="640" height="37.5" y="37.5" fill="#fff"/>
+  <rect width="640" height="37.5" y="112.5" fill="#fff"/>
+  <rect width="640" height="37.5" y="187.5" fill="#fff"/>
+  <rect width="640" height="37.5" y="262.5" fill="#fff"/>
+  <rect width="640" height="37.5" y="337.5" fill="#fff"/>
+  <rect width="640" height="37.5" y="412.5" fill="#fff"/>
+  <rect width="256" height="262.5" fill="#002868"/>
+  <g fill="#fff">
+    <g id="s5">
+      <g id="s4">
+        <g id="s3">
+          <g id="s2">
+            <g id="s1">
+              <g id="s">
+                <polygon points="24,0 28.8,16.5 14.4,6.8 33.6,6.8 19.2,16.5"/>
+                <use transform="translate(0,37.5)" href="#s"/>
+                <use transform="translate(0,75)" href="#s"/>
+                <use transform="translate(0,112.5)" href="#s"/>
+                <use transform="translate(0,150)" href="#s"/>
+              </g>
+              <use transform="translate(48,0)" href="#s"/>
+            </g>
+            <use transform="translate(96,0)" href="#s1"/>
+          </g>
+          <use transform="translate(192,0)" href="#s2"/>
+        </g>
+        <use transform="translate(0,75)" href="#s3"/>
+      </g>
+      <use transform="translate(0,150)" href="#s4"/>
+    </g>
+    <use transform="translate(0,225)" href="#s5"/>
+  </g>
+</svg> 
