@@ -10,7 +10,7 @@ export const translations = {
       signIn: "Sign In"
     },
     hero: {
-      title: "AI-Powered Tools for Students",
+      title: "Next-gen learning. Powered by AI & Web3",
       subtitle: "Dynamic practice questions, citation-based chatbots, interactive study guides, and more.",
       cta: "Get Started"
     },
@@ -163,7 +163,7 @@ export const translations = {
       signIn: "साइन इन"
     },
     hero: {
-      title: "छात्रों के लिए AI-संचालित उपकरण",
+      title: "नेक्स्ट-जेन लर्निंग। एआई और वेब3 द्वारा संचालित",
       subtitle: "गतिशील अभ्यास प्रश्न, उद्धरण-आधारित चैटबॉट, इंटरैक्टिव अध्ययन गाइड, और बहुत कुछ।",
       cta: "शुरू करें"
     },
