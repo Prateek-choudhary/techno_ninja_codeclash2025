@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Mail, MapPin, Phone } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Contact - ClinkDrop",
+  title: "Contact - EduBlock",
   description: "Get in touch with our team for support or inquiries.",
 }
 

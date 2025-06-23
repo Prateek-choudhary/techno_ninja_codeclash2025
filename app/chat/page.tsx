@@ -22,7 +22,7 @@ export default function ChatPage() {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "1",
-      content: "Hello! I'm your ClinkDrop assistant. How can I help with your studies today?",
+      content: "Hello! I'm your EduBlock assistant. How can I help with your studies today?",
       role: "assistant",
       timestamp: new Date(),
     },
@@ -79,7 +79,7 @@ export default function ChatPage() {
       <div className="flex-1 flex flex-col">
         <Card className="flex-1 flex flex-col rounded-none border-0 shadow-none">
           <CardHeader className="border-b">
-            <CardTitle>ClinkDrop Assistant</CardTitle>
+            <CardTitle>EduBlock Assistant</CardTitle>
             <CardDescription>Ask questions about any subject or topic</CardDescription>
           </CardHeader>
 
@@ -91,7 +91,7 @@ export default function ChatPage() {
                     <AvatarFallback>
                       {message.role === "user" ? <User className="h-4 w-4" /> : <Bot className="h-4 w-4" />}
                     </AvatarFallback>
-                    {message.role === "assistant" && <AvatarImage src="/logo.png" alt="ClinkDrop" />}
+                    {message.role === "assistant" && <AvatarImage src="/logo.png" alt="EduBlock" />}
                   </Avatar>
 
                   <div

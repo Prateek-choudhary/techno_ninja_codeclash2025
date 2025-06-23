@@ -35,14 +35,14 @@ export default function Navbar() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2">
           <Image 
-            src="/clinkdrop-logo.png" 
-            alt="ClinkDrop Logo" 
+            src="/edublock-logo.png" 
+            alt="EduBlock Logo" 
             width={40} 
             height={40}
             className="rounded-full"
             priority
           />
-          <span className="font-bold text-xl">ClinkDrop</span>
+          <span className="font-bold text-xl">EduBlock</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -67,7 +67,7 @@ export default function Navbar() {
           <ModeToggle />
 
           <a href="https://spark8-ai-part-3.onrender.com" target="_blank" rel="noopener noreferrer">
-            <Button className="hidden md:flex bg-green-600 hover:bg-green-700">{t.nav.tryClinkDrop}</Button>
+            <Button className="hidden md:flex bg-green-600 hover:bg-green-700">{t.nav.tryEduBlock}</Button>
           </a>
 
           <Link href="/sign-in" className="hidden md:block">
@@ -99,7 +99,7 @@ export default function Navbar() {
             ))}
             <div className="pt-2 flex flex-col space-y-2">
               <a href="https://spark8-ai-part-3.onrender.com" target="_blank" rel="noopener noreferrer" onClick={() => setMobileMenuOpen(false)}>
-                <Button className="w-full bg-green-600 hover:bg-green-700">{t.nav.tryClinkDrop}</Button>
+                <Button className="w-full bg-green-600 hover:bg-green-700">{t.nav.tryEduBlock}</Button>
               </a>
               <Link href="/sign-in" onClick={() => setMobileMenuOpen(false)}>
                 <Button variant="outline" className="w-full">

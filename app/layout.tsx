@@ -12,11 +12,11 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ClinkDrop",
-  description: "Learn and earn with ClinkDrop",
+  title: "EduBlock",
+  description: "Learn and earn with EduBlock",
   icons: {
-    icon: "/clinkdrop-logo.png",
-    apple: "/clinkdrop-logo.png",
+    icon: "/edublock-logo.png",
+    apple: "/edublock-logo.png",
   },
 }
 

@@ -16,7 +16,7 @@ export default function TestimonialsSection() {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg">
             <p className="text-gray-600 dark:text-gray-300 mb-4">
-              "ClinkDrop has transformed how I study. The AI-powered practice questions are incredibly helpful!"
+              "EduBlock has transformed how I study. The AI-powered practice questions are incredibly helpful!"
             </p>
             <div className="font-semibold">Sarah K.</div>
             <div className="text-sm text-gray-500">Computer Science Student</div>

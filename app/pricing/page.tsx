@@ -3,7 +3,7 @@ import PricingSection from "@/components/pricing-section"
 import FAQSection from "@/components/faq-section"
 
 export const metadata: Metadata = {
-  title: "Pricing - ClinkDrop",
+  title: "Pricing - EduBlock",
   description: "Affordable plans for students, educators, and institutions.",
 }
 

@@ -6,7 +6,7 @@ export const translations = {
       pricing: "Pricing",
       about: "About",
       contact: "Contact",
-      tryClinkDrop: "Mentor",
+      tryEduBlock: "Mentor",
       signIn: "Sign In"
     },
     hero: {
@@ -42,7 +42,7 @@ export const translations = {
       plans: {
         free: {
           name: "Free",
-          description: "Perfect for trying out ClinkDrop"
+          description: "Perfect for trying out EduBlock"
         },
         pro: {
           name: "Pro",
@@ -52,7 +52,7 @@ export const translations = {
     },
     cta: {
       title: "Ready to Transform Your Learning?",
-      subtitle: "Join thousands of students who are already using ClinkDrop",
+      subtitle: "Join thousands of students who are already using EduBlock",
       button: "Get Started Now"
     },
     chatbot: {
@@ -159,7 +159,7 @@ export const translations = {
       pricing: "मूल्य",
       about: "हमारे बारे में",
       contact: "संपर्क",
-      tryClinkDrop: "मेंटर",
+      tryEduBlock: "मेंटर",
       signIn: "साइन इन"
     },
     hero: {
@@ -195,7 +195,7 @@ export const translations = {
       plans: {
         free: {
           name: "मुफ्त",
-          description: "ClinkDrop को आज़माने के लिए बिल्कुल सही"
+          description: "EduBlock को आज़माने के लिए बिल्कुल सही"
         },
         pro: {
           name: "प्रो",
@@ -205,7 +205,7 @@ export const translations = {
     },
     cta: {
       title: "अपनी सीखने की यात्रा को बदलने के लिए तैयार हैं?",
-      subtitle: "हजारों छात्रों में शामिल हों जो पहले से ही ClinkDrop का उपयोग कर रहे हैं",
+      subtitle: "हजारों छात्रों में शामिल हों जो पहले से ही EduBlock का उपयोग कर रहे हैं",
       button: "अभी शुरू करें"
     },
     chatbot: {

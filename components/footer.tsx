@@ -10,9 +10,9 @@ export default function Footer() {
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <div className="relative h-8 w-8">
-                <Image src="/logo.png" alt="ClinkDrop Logo" fill className="object-contain" />
+                <Image src="/logo.png" alt="EduBlock Logo" fill className="object-contain" />
               </div>
-              <span className="text-xl font-bold">ClinkDrop</span>
+              <span className="text-xl font-bold">EduBlock</span>
             </Link>
             <p className="text-gray-600 dark:text-gray-400 mb-4">
               AI-powered educational tools for students and educators.
@@ -160,7 +160,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-100 dark:border-gray-800 mt-12 pt-8 text-center text-gray-500 dark:text-gray-400">
-          <p>© {new Date().getFullYear()} ClinkDrop. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} EduBlock. All rights reserved.</p>
         </div>
       </div>
     </footer>
