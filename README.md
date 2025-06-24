@@ -100,7 +100,7 @@ Members:  Prateek Choudhary / Sarthak Dubey
 
 
 
-## Contact / Demo Access
+## Contact / Demo Access ( INSTALL METAMASK AND CREATE ACCOUNT ON SEPLOLIA ETHEREUM FOR CONNECT WALLET IN EDUBLOCK GAMES PAGE )
 
 * Deployed look (Just a prototype rightnow) : https://technoninjacodeclash2025.vercel.app/
 
